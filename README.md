@@ -3,7 +3,7 @@ The code and the dataset is made available on request. Currently the research pa
 
 Write me on kugunavarsowrabh@gmail.com
 
-The results show the AI based optimization to predict the suitable lighting conditions to perform a highly accurate geometric feature using vision measurement system.
+The results show the AI based optimization to predict the suitable lighting conditions to perform a highly accurate geometric feature measurement using vision measurement system.
 
 The results supressed the uncertainties from 16 mirons to 0.16 microns.
 
