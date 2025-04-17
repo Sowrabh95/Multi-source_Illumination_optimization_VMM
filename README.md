@@ -1,5 +1,5 @@
 # Multi-source_Illumination_optimization_VMM
-The code and the dataset is made available on request. Currently the research paper is under review.
+The code and the dataset is made available on request.
 
 Write me on kugunavarsowrabh@gmail.com
 
